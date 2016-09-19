@@ -1,0 +1,15 @@
+*{
+
+box-sizing: border-box;
+}
+
+.description {
+    color: magenta;
+    font-style: italic;
+    font-weight: bold;
+    image
+}
+
+.screenshot {
+    background-image: "image.png"
+}
